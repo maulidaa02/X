@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241875588372",
+    "project_id": "xlite-3c40f",
+    "storage_bucket": "xlite-3c40f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241875588372:android:7a528ff87d323ff91b1e01",
+        "android_client_info": {
+          "package_name": "com.example.x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQdErH_axqeX_LgVEYCYGK8oxsJ9PzRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
